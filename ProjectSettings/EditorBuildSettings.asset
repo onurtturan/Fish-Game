@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 145b0519bcfd5c14f8a158e85e871a0b
+  - enabled: 1
+    path: Assets/Scenes/BaseLine.unity
+    guid: 00d54de98f2b9534aa03db50fa0e1fdf
+  - enabled: 1
+    path: Assets/Scenes/Training.unity
+    guid: b4f01048d18c42949aec296c4ffa1e2d
+  - enabled: 1
+    path: "Assets/Scenes/Rekabet\xE7i.unity"
+    guid: 5a589068fc37ee5489bde89404c25af1
+  - enabled: 1
+    path: Assets/Scenes/Kooperatif.unity
+    guid: d4e63d9d71cb4ca4d8e7f4f0c66609b7
+  - enabled: 1
+    path: Assets/Scenes/Kollaboratif.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: "Assets/Scenes/Haz\u0131rl\u0131kSeviyeler.unity"
+    guid: 4ac5cec3dc7fbb44ebeef5ce116d9fcb
+  - enabled: 1
+    path: "Assets/Scenes/Haz\u0131rl\u0131k1.unity"
+    guid: 225cba4f8ee83aa4692121d94fd39dad
+  - enabled: 1
+    path: "Assets/Scenes/Haz\u0131rl\u0131k3.unity"
+    guid: d15da54cac8fd5040a03295e3b7d166e
+  - enabled: 1
+    path: "Assets/Scenes/Haz\u0131rl\u0131k4.unity"
+    guid: e2b65cd4daf75c544b11fe7e3b4eea6a
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
